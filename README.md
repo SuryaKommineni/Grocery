@@ -17,7 +17,9 @@ A simple and responsive Grocery Shopping App built with **React.js** and **Vite*
 
 ## 📸 Screenshots
 
-> *(Optional: Add screenshots of your app here using Markdown or image links)*
+![Alt Text](/grocery-app/public.GroceryPreview.png)
+
+
 
 
 
