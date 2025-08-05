@@ -1,0 +1,161 @@
+/* ProductSection.css */
+
+.product-section {
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.product-section h2 {
+  text-align: center;
+  color: #333;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.product-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.product-card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  width: 250px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.product-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.product-name {
+  font-size: 1.2em;
+  color: #555;
+  margin: 10px 0;
+}
+
+.product-price {
+  margin: 15px 0;
+  font-size: 1.1em;
+  color: #333;
+}
+
+.original-price {
+  text-decoration: line-through;
+  color: #999;
+}
+
+.discounted-price {
+  color: #e63946;
+  font-weight: bold;
+}
+
+.add-button, .go-to-cart-button {
+  background-color: #e63946;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.add-button:hover, .go-to-cart-button:hover {
+  background-color: #d62828;
+}
+
+.quantity-controls {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap:10px;
+  align-items: center;
+}
+
+.quantity-button-group {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.decrement-button, .increment-button {
+  background-color: white;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.decrement-button:hover, .increment-button:hover {
+  background-color: #f15e00;
+}
+
+.quantity {
+  font-size: 1.2em;
+  color: #333;
+}
+
+.go-to-cart-button {
+  margin-top: 10px;
+  width: 100%;
+  display: block;  /* Ensure the button is displayed as a block element */
+}
+.search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.search-input {
+  padding: 8px 12px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+  max-width: 300px;
+}
+
+.search-button {
+  padding: 8px 16px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #28a745; /* Green background */
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.search-button:hover {
+  background-color: #218838; /* Darker green on hover */
+}
+
+.search-button:active {
+  background-color: #1e7e34; /* Even darker green on click */
+}
+.edit-icon {
+  cursor: pointer;
+  color: #007bff;
+  margin-right: 10px;
+}
+
+.delete-button {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 4px;
+}

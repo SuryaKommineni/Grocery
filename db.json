@@ -1,0 +1,564 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "category": "Fruits",
+      "name": "Banana",
+      "Dprice": 47.5,
+      "Oprice": 50,
+      "description": "Rich in potassium and energy, ideal for a quick boost.",
+      "discount": "5% OFF",
+      "image": "public/10000025_32-fresho-banana-robust.jpg"
+    },
+    {
+      "id": "3",
+      "category": "Vegetables",
+      "name": "Carrot",
+      "Dprice": 32,
+      "Oprice": 40,
+      "description": "Crunchy and full of vitamins, great for salads and snacks.",
+      "discount": "20% OFF",
+      "image": "public/carrot.jpg"
+    },
+    {
+      "id": "4",
+      "category": "Vegetables",
+      "name": "Broccoli",
+      "Dprice": 68,
+      "Oprice": 80,
+      "description": "High in fiber and nutrients, perfect for a healthy diet.",
+      "discount": "15% OFF",
+      "image": "public/brocolli.jpg"
+    },
+    {
+      "id": "5",
+      "category": "Dairy",
+      "name": "Milk",
+      "Dprice": 40.5,
+      "Oprice": 45,
+      "description": "Fresh dairy milk, a daily essential for strong bones.",
+      "discount": "10% OFF",
+      "image": "public/milk.jpg"
+    },
+    {
+      "id": "6",
+      "category": "Dairy",
+      "name": "Cheese",
+      "Dprice": 142.5,
+      "Oprice": 150,
+      "description": "Delicious cheese, ideal for sandwiches and pizzas.",
+      "discount": "5% OFF",
+      "image": "public/cheese.jpg"
+    },
+    {
+      "id": "7",
+      "category": "Trending",
+      "name": "Domex Cleaner",
+      "Dprice": 55,
+      "Oprice": 90,
+      "description": "Powerful cleaning solution for a germ-free home.",
+      "discount": "20% OFF",
+      "image": "public/domex.jpg"
+    },
+    {
+      "id": "8",
+      "category": "Offers",
+      "name": "Combo Pack - Wipes",
+      "Dprice": 100,
+      "Oprice": 200,
+      "description": "Pack of baby wipes with soothing ingredients.",
+      "discount": "30% OFF",
+      "image": "public/wipes.jpg"
+    },
+    {
+      "id": "9",
+      "category": "Fruits",
+      "name": "guava",
+      "Dprice": 95,
+      "Oprice": 105,
+      "description": "Delicious and fresh guava, perfect for snacks and juices.",
+      "discount": "14% OFF",
+      "image": "public/guava.webp"
+    },
+    {
+      "id": "10",
+      "category": "Fruits",
+      "name": "Grapes",
+      "Dprice": 100,
+      "Oprice": 110,
+      "description": "Delicious and fresh Grapes, perfect for snacks and juices.",
+      "discount": "10% OFF",
+      "image": "public/Grapes.webp"
+    },
+    {
+      "id": "11",
+      "category": "Fruits",
+      "name": "Dates",
+      "Dprice": 105,
+      "Oprice": 115,
+      "description": "Delicious and fresh Dates, perfect for snacks and juices.",
+      "discount": "11% OFF",
+      "image": "public/Dates.webp"
+    },
+    {
+      "id": "12",
+      "category": "Fruits",
+      "name": "Papaya",
+      "Dprice": 110,
+      "Oprice": 120,
+      "description": "Delicious and fresh Papaya, perfect for snacks and juices.",
+      "discount": "12% OFF",
+      "image": "public/papaya.webp"
+    },
+    {
+      "id": "13",
+      "category": "Fruits",
+      "name": "Kiwi",
+      "Dprice": 115,
+      "Oprice": 125,
+      "description": "Delicious and fresh Kiwi, perfect for snacks and juices.",
+      "discount": "13% OFF",
+      "image": "public/kiwi.webp"
+    },
+    {
+      "id": "14",
+      "category": "Fruits",
+      "name": "Watermelon",
+      "Dprice": 120,
+      "Oprice": 130,
+      "description": "Delicious and fresh Watermelon, perfect for snacks and juices.",
+      "discount": "14% OFF",
+      "image": "public/Watermelon.webp"
+    },
+    {
+      "id": "15",
+      "category": "Fruits",
+      "name": "Pomegranate",
+      "Dprice": 125,
+      "Oprice": 135,
+      "description": "Delicious and fresh Pomegranate, perfect for snacks and juices.",
+      "discount": "10% OFF",
+      "image": "public/pomegranate.webp"
+    },
+    {
+      "id": "16",
+      "category": "Fruits",
+      "name": "Orange",
+      "Dprice": 130,
+      "Oprice": 140,
+      "description": "Delicious and fresh orange, perfect for snacks and juices.",
+      "discount": "11% OFF",
+      "image": "orange.webp"
+    },
+    {
+      "id": "17",
+      "category": "Fruits",
+      "name": "BlueBerry",
+      "Dprice": 135,
+      "Oprice": 145,
+      "description": "Delicious and fresh BlueBerry, perfect for snacks and juices.",
+      "discount": "12% OFF",
+      "image": "blueberry.webp"
+    },
+    {
+      "id": "18",
+      "category": "Fruits",
+      "name": "Pear",
+      "Dprice": 140,
+      "Oprice": 150,
+      "description": "Delicious and fresh Pear, perfect for snacks and juices.",
+      "discount": "13% OFF",
+      "image": "public/Pear.webp"
+    },
+    {
+      "id": "19",
+      "category": "Fruits",
+      "name": "Sitaphal",
+      "Dprice": 145,
+      "Oprice": 155,
+      "description": "Delicious and fresh Sitaphal, perfect for snacks and juices.",
+      "discount": "14% OFF",
+      "image": "public/sitaphal.webp"
+    },
+    {
+      "id": "20",
+      "category": "Fruits",
+      "name": "Pineapple",
+      "Dprice": 150,
+      "Oprice": 160,
+      "description": "Delicious and fresh Pineapple, perfect for snacks and juices.",
+      "discount": "10% OFF",
+      "image": "public/Pineapple.webp"
+    },
+    {
+      "id": "21",
+      "category": "Vegetables",
+      "name": "Coriander",
+      "Dprice": 33,
+      "Oprice": 43,
+      "description": "Healthy and nutritious Coriander, ideal for cooking.",
+      "discount": "16% OFF",
+      "image": "Coriander.webp"
+    },
+    {
+      "id": "22",
+      "category": "Vegetables",
+      "name": "Mirchi",
+      "Dprice": 16,
+      "Oprice": 26,
+      "description": "Healthy and nutritious Mirchi, ideal for cooking.",
+      "discount": "17% OFF",
+      "image": "public/Mirchi.webp"
+    },
+    {
+      "id": "23",
+      "category": "Vegetables",
+      "name": "Lemon",
+      "Dprice": 19,
+      "Oprice": 29,
+      "description": "Healthy and nutritious Lemon, ideal for cooking.",
+      "discount": "18% OFF",
+      "image": "public/Lemon.webp"
+    },
+    {
+      "id": "24",
+      "category": "Vegetables",
+      "name": "Cocunut",
+      "Dprice": 42,
+      "Oprice": 52,
+      "description": "Healthy and nutritious Cocunut, ideal for cooking.",
+      "discount": "19% OFF",
+      "image": "public/Coconut.webp"
+    },
+    {
+      "id": "25",
+      "category": "Vegetables",
+      "name": "Beetroot",
+      "Dprice": 45,
+      "Oprice": 55,
+      "description": "Healthy and nutritious Beetroot, ideal for cooking.",
+      "discount": "15% OFF",
+      "image": "public/Beetroot.webp"
+    },
+    {
+      "id": "26",
+      "category": "Vegetables",
+      "name": "Onions",
+      "Dprice": 28,
+      "Oprice": 38,
+      "description": "Healthy and nutritious Onions, ideal for cooking.",
+      "discount": "16% OFF",
+      "image": "public/Onions.webp"
+    },
+    {
+      "id": "27",
+      "category": "Vegetables",
+      "name": "Tomota",
+      "Dprice": 21,
+      "Oprice": 31,
+      "description": "Healthy and nutritious Tomota, ideal for cooking.",
+      "discount": "17% OFF",
+      "image": "public/Tomota.webp"
+    },
+    {
+      "id": "28",
+      "category": "Vegetables",
+      "name": "Spinash",
+      "Dprice": 14,
+      "Oprice": 24,
+      "description": "Healthy and nutritious Spinash, ideal for cooking.",
+      "discount": "18% OFF",
+      "image": "public/Spinash.webp"
+    },
+    {
+      "id": "29",
+      "category": "Vegetables",
+      "name": "Potato",
+      "Dprice": 27,
+      "Oprice": 37,
+      "description": "Healthy and nutritious Potato, ideal for cooking.",
+      "discount": "19% OFF",
+      "image": "public/Potato.webp"
+    },
+    {
+      "id": "30",
+      "category": "Vegetables",
+      "name": "Mushroom",
+      "Dprice": 60,
+      "Oprice": 70,
+      "description": "Healthy and nutritious Mushroom, ideal for cooking.",
+      "discount": "15% OFF",
+      "image": "public/Mushroom.webp"
+    },
+    {
+      "id": "31",
+      "category": "Vegetables",
+      "name": "Cabbage",
+      "Dprice": 63,
+      "Oprice": 73,
+      "description": "Healthy and nutritious Cabbage, ideal for cooking.",
+      "discount": "16% OFF",
+      "image": "public/Cabbage.webp"
+    },
+    {
+      "id": "32",
+      "category": "Vegetables",
+      "name": "Cauliflower",
+      "Dprice": 66,
+      "Oprice": 76,
+      "description": "Healthy and nutritious Cauliflower, ideal for cooking.",
+      "discount": "17% OFF",
+      "image": "public/cauliflower.webp"
+    },
+    {
+      "id": "33",
+      "category": "Vegetables",
+      "name": "Garlic",
+      "Dprice": 9,
+      "Oprice": 19,
+      "description": "Healthy and nutritious Garlic, ideal for cooking.",
+      "discount": "18% OFF",
+      "image": "public/Garlic.webp"
+    },
+    {
+      "id": "34",
+      "category": "Vegetables",
+      "name": "Capsicum",
+      "Dprice": 72,
+      "Oprice": 82,
+      "description": "Healthy and nutritious Capsicum, ideal for cooking.",
+      "discount": "19% OFF",
+      "image": "public/Capsicum.webp"
+    },
+    {
+      "id": "35",
+      "category": "Vegetables",
+      "name": "Brinjal",
+      "Dprice": 25,
+      "Oprice": 35,
+      "description": "Healthy and nutritious Brinjal, ideal for cooking.",
+      "discount": "15% OFF",
+      "image": "public/Brinjal.webp"
+    },
+    {
+      "id": "36",
+      "category": "Vegetables",
+      "name": "Corn",
+      "Dprice": 8,
+      "Oprice": 18,
+      "description": "Healthy and nutritious Corn, ideal for cooking.",
+      "discount": "16% OFF",
+      "image": "public/Corn.webp"
+    },
+    {
+      "id": "37",
+      "category": "Vegetables",
+      "name": "Peas",
+      "Dprice": 21,
+      "Oprice": 31,
+      "description": "Healthy and nutritious Peas, ideal for cooking.",
+      "discount": "17% OFF",
+      "image": "public/Peas.webp"
+    },
+    {
+      "id": "38",
+      "category": "Vegetables",
+      "name": "Cucumber",
+      "Dprice": 84,
+      "Oprice": 94,
+      "description": "Healthy and nutritious Cucumber, ideal for cooking.",
+      "discount": "18% OFF",
+      "image": "public/Cucumber.webp"
+    },
+    {
+      "id": "39",
+      "category": "Vegetables",
+      "name": "LadiesFinger",
+      "Dprice": 87,
+      "Oprice": 97,
+      "description": "Healthy and nutritious LadiesFinger, ideal for cooking.",
+      "discount": "19% OFF",
+      "image": "public/LadiesFinger.webp"
+    },
+    {
+      "id": "40",
+      "category": "Vegetables",
+      "name": "Drumstick",
+      "Dprice": 90,
+      "Oprice": 100,
+      "description": "Healthy and nutritious Drumstick, ideal for cooking.",
+      "discount": "15% OFF",
+      "image": "public/Drumstick.webp"
+    },
+    {
+      "id": "41",
+      "category": "Dairy",
+      "name": "Paratha",
+      "Dprice": 44,
+      "Oprice": 54,
+      "description": "Fresh Paratha, essential for daily nutrition.",
+      "discount": "13% OFF",
+      "image": "Paratha.webp"
+    },
+    {
+      "id": "42",
+      "category": "Dairy",
+      "name": "Taj Mahal",
+      "Dprice": 48,
+      "Oprice": 58,
+      "description": "Fresh Taj Mahal, essential for daily nutrition.",
+      "discount": "14% OFF",
+      "image": "Taj Mahal.webp"
+    },
+    {
+      "id": "43",
+      "category": "Dairy",
+      "name": "Peanet Butter",
+      "Dprice": 52,
+      "Oprice": 62,
+      "description": "Fresh Butter, essential for daily nutrition.",
+      "discount": "15% OFF",
+      "image": "public/Butter.webp"
+    },
+    {
+      "id": "44",
+      "category": "Dairy",
+      "name": "Chocos",
+      "Dprice": 56,
+      "Oprice": 66,
+      "description": "Fresh Chocos, essential for daily nutrition.",
+      "discount": "16% OFF",
+      "image": "public/Chocos.webp"
+    },
+    {
+      "id": "45",
+      "category": "Dairy",
+      "name": "Corn Flakes",
+      "Dprice": 60,
+      "Oprice": 70,
+      "description": "Fresh Corn Flakes, essential for daily nutrition.",
+      "discount": "12% OFF",
+      "image": "public/Cornflakes.webp"
+    },
+    {
+      "id": "46",
+      "category": "Dairy",
+      "name": "Badam Pista",
+      "Dprice": 64,
+      "Oprice": 74,
+      "description": "Fresh Badam Pista, essential for daily nutrition.",
+      "discount": "13% OFF",
+      "image": "public/Badam.webp"
+    },
+    {
+      "id": "47",
+      "category": "Dairy",
+      "name": "Crossiant",
+      "Dprice": 68,
+      "Oprice": 78,
+      "description": "Fresh Crossiant, essential for daily nutrition.",
+      "discount": "14% OFF",
+      "image": "public/Treet.webp"
+    },
+    {
+      "id": "48",
+      "category": "Dairy",
+      "name": "Pav",
+      "Dprice": 72,
+      "Oprice": 82,
+      "description": "Fresh Pav, essential for daily nutrition.",
+      "discount": "15% OFF",
+      "image": "public/Pav.webp"
+    },
+    {
+      "id": "49",
+      "category": "Dairy",
+      "name": "Bread",
+      "Dprice": 76,
+      "Oprice": 86,
+      "description": "Fresh Bread, essential for daily nutrition.",
+      "discount": "16% OFF",
+      "image": "public/Bread.webp"
+    },
+    {
+      "id": "50",
+      "category": "Dairy",
+      "name": "Bournvita",
+      "Dprice": 80,
+      "Oprice": 90,
+      "description": "Fresh Bournvita, essential for daily nutrition.",
+      "discount": "12% OFF",
+      "image": "public/Bournvita.webp"
+    },
+    {
+      "id": "51",
+      "category": "Dairy",
+      "name": "Soan Papidi",
+      "Dprice": 84,
+      "Oprice": 94,
+      "description": "Fresh Soan Papidi, essential for daily nutrition.",
+      "discount": "13% OFF",
+      "image": "public/Soanpapidi.webp"
+    },
+    {
+      "id": "53",
+      "category": "Dairy",
+      "name": "Biscuits",
+      "Dprice": 92,
+      "Oprice": 102,
+      "description": "Fresh Biscuits, essential for daily nutrition.",
+      "discount": "15% OFF",
+      "image": "public/Biscuits.webp"
+    },
+    {
+      "id": "54",
+      "category": "Dairy",
+      "name": "Panner",
+      "Dprice": 96,
+      "Oprice": 106,
+      "description": "Fresh Panner, essential for daily nutrition.",
+      "discount": "16% OFF",
+      "image": "public/Panner.webp"
+    },
+    {
+      "id": "55",
+      "category": "Dairy",
+      "name": "Laddu",
+      "Dprice": 100,
+      "Oprice": 110,
+      "description": "Fresh Laddu, essential for daily nutrition.",
+      "discount": "12% OFF",
+      "image": "public/Laddu.webp"
+    },
+    {
+      "id": "56",
+      "category": "Dairy",
+      "name": "Mysore Pack",
+      "Dprice": 104,
+      "Oprice": 114,
+      "description": "Fresh Mysore Pack, essential for daily nutrition.",
+      "discount": "13% OFF",
+      "image": "public/Mysorepack.webp"
+    },
+    {
+      "id": "57",
+      "category": "Dairy",
+      "name": "Curd",
+      "Dprice": 108,
+      "Oprice": 118,
+      "description": "Fresh Curd, essential for daily nutrition.",
+      "discount": "14% OFF",
+      "image": "public/Curd.webp"
+    },
+    {
+      "id": "58",
+      "category": "Dairy",
+      "name": "Hot Choclate",
+      "Dprice": 112,
+      "Oprice": 122,
+      "description": "Fresh Hot Choclate, essential for daily nutrition.",
+      "discount": "15% OFF",
+      "image": "public/chocolate.webp"
+    }
+  ]
+}

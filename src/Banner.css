@@ -1,0 +1,43 @@
+.banner {
+  margin-top: 15px;
+  width: 100%;
+  height: 500px; /* Fixed height for the banner */
+  overflow: hidden; /* Hide content outside the banner */
+  position: relative;
+  box-shadow: 1px 1px 10px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.slider {
+  display: flex;
+  height: 100%;
+  animation: slide 10s infinite; /* Infinite loop of 10 seconds */
+}
+
+.banner-image {
+  flex-shrink: 0;
+  width: 100%; /* Full width of the container */
+  height: 100%; /* Full height of the banner */
+  object-fit: cover; /* Ensures images maintain aspect ratio and fill the space */
+  transition: transform 0.5s ease-in-out;
+}
+
+@keyframes slide {
+  0% {
+    transform: translateX(0); /* Start with the first image */
+  }
+  25% {
+    transform: translateX(-100%); /* Slide to the second image */
+  }
+  50% {
+    transform: translateX(-200%); /* Slide to the third image */
+  }
+  75% {
+    transform: translateX(-300%); /* Slide to the fourth image */
+  }
+  100% {
+    transform: translateX(0); /* Return to the first image */
+  }
+}
